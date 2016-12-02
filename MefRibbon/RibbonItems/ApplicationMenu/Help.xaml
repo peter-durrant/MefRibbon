@@ -1,0 +1,7 @@
+﻿<RibbonApplicationMenuItem
+    x:Class="MefRibbon.RibbonItems.ApplicationMenu.HelpApplicationMenuItem"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    
+    Header="_Help"
+    Click="Help_Click" />

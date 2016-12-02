@@ -1,0 +1,6 @@
+﻿<RibbonButton x:Class="MefRibbon.RibbonItems.QuickLaunch.Undo"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+              
+              Label="Undo"
+              Click="Undo_Click" />
